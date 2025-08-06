@@ -48,7 +48,7 @@ sudo dnf install iptables ipset
 1. Clone or download the repository:
 ```bash
 git clone git@github.com:creatomatic/UptimeRobotWhitelister.git
-cd UptimeRobotsWhitelister
+cd UptimeRobotWhitelister
 ```
 
 2. Make the script executable:
