@@ -14,13 +14,13 @@ This application solves that problem by:
 
 ## Features
 
-- ✅ **Dual Stack Support**: Handles both IPv4 and IPv6 addresses
-- ✅ **Efficient IP Management**: Uses ipset for optimal performance with large IP lists
-- ✅ **Idempotent Operations**: Safe to run multiple times without conflicts
-- ✅ **Persistent Rules**: Optional persistence across system reboots
-- ✅ **Comprehensive Logging**: Detailed timestamped logs for troubleshooting
-- ✅ **Error Handling**: Graceful handling of missing files and failed operations
-- ✅ **Root Privilege Check**: Ensures proper permissions before execution
+- **Dual Stack Support**: Handles both IPv4 and IPv6 addresses
+- **Efficient IP Management**: Uses ipset for optimal performance with large IP lists
+- **Idempotent Operations**: Safe to run multiple times without conflicts
+- **Persistent Rules**: Optional persistence across system reboots
+- **Comprehensive Logging**: Detailed timestamped logs for troubleshooting
+- **Error Handling**: Graceful handling of missing files and failed operations
+- **Root Privilege Check**: Ensures proper permissions before execution
 
 ## Prerequisites
 
