@@ -1,9 +1,10 @@
 
+<div style="display:flex; justify-content:center;">
+<img style="padding-block: 2em; height:150px" src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" />
+</div>
+
 
 # UptimeRobot Whitelister
-<div>
-<img style="display:flex; justify-self:center; align-self:center; padding-block: 2em; height:100px" src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" />
-</div>
 
 A bash script for automatically whitelisting UptimeRobot monitoring server IP addresses in your server's firewall using iptables and ipset.
 
