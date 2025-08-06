@@ -1,6 +1,6 @@
 # UptimeRobot Whitelister
 
-A professional bash script for automatically whitelisting UptimeRobot monitoring server IP addresses in your server's firewall using iptables and ipset.
+A bash script for automatically whitelisting UptimeRobot monitoring server IP addresses in your server's firewall using iptables and ipset.
 
 ## Overview
 
